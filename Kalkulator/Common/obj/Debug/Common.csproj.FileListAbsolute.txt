@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\Kalkulator\Common\bin\Debug\Common.dll
+C:\Users\USER\source\repos\Kalkulator\Common\bin\Debug\Common.pdb
+C:\Users\USER\source\repos\Kalkulator\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Kalkulator\Common\obj\Debug\Common.dll
+C:\Users\USER\source\repos\Kalkulator\Common\obj\Debug\Common.pdb
