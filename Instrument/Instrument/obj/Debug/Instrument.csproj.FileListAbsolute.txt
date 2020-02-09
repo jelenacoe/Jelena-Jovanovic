@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Instrument\Instrument\bin\Debug\Instrument.exe.config
+C:\Users\USER\source\repos\Instrument\Instrument\bin\Debug\Instrument.exe
+C:\Users\USER\source\repos\Instrument\Instrument\bin\Debug\Instrument.pdb
+C:\Users\USER\source\repos\Instrument\Instrument\obj\Debug\Instrument.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Instrument\Instrument\obj\Debug\Instrument.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Instrument\Instrument\obj\Debug\Instrument.exe
+C:\Users\USER\source\repos\Instrument\Instrument\obj\Debug\Instrument.pdb
